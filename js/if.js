@@ -27,3 +27,4 @@ if (zodis1 >= zodis2) {
 } else {
     console.log(false);
 }
+
