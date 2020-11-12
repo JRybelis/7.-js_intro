@@ -18,3 +18,14 @@ const html = `<div>
     <a> href="#"> Click me </a>
     </div>`;
 console.log(html);
+
+// Joniukas ir Grytutė ėjo į mišką.
+const berniukas = 'Joniukas';
+const mergaite = 'Gretutė';
+const judejimas = 'ejo';
+const vieta = 'mišką';
+// const pasaka = berniukas + ' ir ' + mergaite + ' ' + judejimas + ' į ' + 'vieta' + '.';
+// console.log(pasaka);
+// arba
+const pasaka = `${berniukas} ir ${mergaite} ${judejimas} į ${vieta}.`;
+console.log (pasaka);
