@@ -19,3 +19,11 @@ if (akys == 'mėlynos') {
         } else {
             console.log('Kerinčios rudos akys');
             }
+
+const zodis1 = "at";
+const zodis2 = "hand";
+if (zodis1 >= zodis2) {
+    console.log(true);
+} else {
+    console.log(false);
+}
